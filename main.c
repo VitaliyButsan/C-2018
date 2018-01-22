@@ -27,5 +27,7 @@ int main()
 //    for(i=1,sum2=0; i<10; i++)
 //        sum2 += (20*i);
 //    printf("%d\n", sum2+1);
-    
+//    printf("hello");   
+//    printf("3");
 }
+
